@@ -1,0 +1,1 @@
+import{U as e,W as t,nt as n,t as r}from"./chunks/framework.DU75x1fv.js";var i=JSON.parse(`{"title":"Privacy Policy","description":"","frontmatter":{},"headers":[],"relativePath":"privacy.md","filePath":"privacy.md"}`),a={name:`privacy.md`};function o(r,i,a,o,s,c){return n(),e(`div`,null,[...i[0]||=[t("",57)]])}var s=r(a,[[`render`,o]]);export{i as __pageData,s as default};
